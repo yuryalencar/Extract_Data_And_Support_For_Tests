@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<casosteste>
+    <valor nome="Yury Alencar Lima" idade="20" email="yuryalencar19@gmail.com"/>
+    <valor nome="Juliana Mareco" idade="20" email="julianamareco18@gmail.com"/>
+    <valor nome="Lucas Martins" idade="Desconhecida" email="lgatts@gmail.com"/>
+    <valor nome="Lucas Corrêa" idade="22" email="eslucascorrea@gmail.com"/>
+</casosteste>
