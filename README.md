@@ -1,4 +1,4 @@
-# Extract Data XML For Tests
+# Extract Data And Support For Tests
 
 **Analisador XML para extração de dados:**
 * Extraindo dados de um arquivo XML partindo do nome da tag e dos atributos escolhidos.
